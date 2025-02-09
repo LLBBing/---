@@ -389,14 +389,14 @@
               <FilePath>.\MatrixLED.h</FilePath>
             </File>
             <File>
-              <FileName>hex.c</FileName>
+              <FileName>Timer0.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\hex.c</FilePath>
+              <FilePath>.\Timer0.c</FilePath>
             </File>
             <File>
-              <FileName>hex.h</FileName>
+              <FileName>Timer0.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\hex.h</FilePath>
+              <FilePath>.\Timer0.h</FilePath>
             </File>
           </Files>
         </Group>
